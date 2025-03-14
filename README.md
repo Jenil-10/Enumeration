@@ -101,8 +101,14 @@ and issue appropriate commands
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
 
 
-## OUTPUT:
-![image](https://github.com/user-attachments/assets/29a65698-a085-4ae5-ba09-d516ea3c9e53)
+### OUTPUT:
+![image](https://github.com/user-attachments/assets/29a65698-a085-4ae5-ba09-d516ea3c9e53)]
+
+
+## Telnet:
+![image](https://github.com/user-attachments/assets/5beb7894-c4d9-4579-8fa5-a10e5596f2e7)
+
+
 
 
 
